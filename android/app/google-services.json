@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690962924395",
+    "project_id": "portfolio-anaz",
+    "storage_bucket": "portfolio-anaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690962924395:android:1e30df5ba22e43d183022e",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_anaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJi7y7dxruTE7j5_zKsT6E45FqR739KUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
